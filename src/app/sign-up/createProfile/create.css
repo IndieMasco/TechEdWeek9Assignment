@@ -1,0 +1,72 @@
+.create-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #1e1e1e;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.281);
+}
+
+.create-fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.create-legend {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+.create-label {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.create-container input[type="text"],
+.create-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #343434;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.create-textarea {
+  min-height: 150px;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.create-button {
+  display: block;
+  margin-left: 25%;
+  justify-content: center;
+  width: 50%;
+  padding: 15px;
+  margin-top: 30px;
+  background-color: oklch(44.4% 0.177 26.899);
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.create-button:hover {
+  background-color: oklch(62.813% 0.25739 28.782);
+}

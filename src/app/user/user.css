@@ -1,0 +1,71 @@
+.profile-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #1e1e1e;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.281);
+}
+
+.username {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 15px;
+}
+
+.bio-container {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #1e1e1e;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+
+.h3-bio {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.p-bio {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.pro-post-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+}
+
+.pro-post-container > div:first-of-type {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+.pro-post-container > div > div {
+  background-color: #1e1e1e;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s;
+}
+
+.pro-post-container > div > div:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.pro-post-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
