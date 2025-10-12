@@ -29,9 +29,9 @@ If there is anything you think I could do better or improve on, I'd be happy to 
 
 # requirements that I wasn't able to achieve
 
-- 🏹 Allow users to view other profiles directly from posts they see on the global timeline, using a dynamic users route `(e.g. /user/[userId])`.
-- 🏹 Let users follow each other by establishing a follower and followee relationship between profiles.
-- 🏹 Enable users to like posts by linking their user_id to the liked_post in a junction table.
+- ❌ 🏹 Allow users to view other profiles directly from posts they see on the global timeline, using a dynamic users route `(e.g. /user/[userId])`.
+- ❌ 🏹 Let users follow each other by establishing a follower and followee relationship between profiles.
+- ❌ 🏹 Enable users to like posts by linking their user_id to the liked_post in a junction table.
 
 # Wireframe
 
