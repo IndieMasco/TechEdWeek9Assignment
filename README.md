@@ -65,6 +65,7 @@ If there is anything you think I could do better or improve on, I'd be happy to 
 - I feel my initial database setup could have been gone better. My mind just kept hitting a wall when I was trying to figure out how to make Clerk and Supabase talk to each other.
 - Working with Radix could have gone a lot better. Their set-up guides are terrible; I feel like they could make them a lot better.
 - I had to restart my repo on this assignment. I was lying in bed and couldn't sleep, so I figured I'd make a few quick changes to my READme. The next day, I forgot to pull them before I tried to push new work from my PC. Instead of dealing with the merge conflict, I just deleted the repo and restarted it from scratch.
+- I wish I had more time! I forgot I had people coming around today (Sunday 12th), so the time I thought I had left to finish off the styling and other bits has now been cut massively.
 
 # External sources
 
